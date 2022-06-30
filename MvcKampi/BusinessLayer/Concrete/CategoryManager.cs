@@ -24,6 +24,7 @@ namespace BusinessLayer.Concrete
             else
             {
                 repo.Insert(p); // hata yoksa ınsert içine p parametresini eklesin. 
+                //merhaba
             }
         }
 
